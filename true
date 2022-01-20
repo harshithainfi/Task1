@@ -1,0 +1,2 @@
+      invoke  active_record
+   identical    db/migrate/20220116091436_add_index_to_currencies.rb
